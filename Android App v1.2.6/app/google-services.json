@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "957979582525",
+    "firebase_url": "https://android-news-50e29.firebaseio.com",
+    "project_id": "android-news-50e29",
+    "storage_bucket": "android-news-50e29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957979582525:android:772a650c540a130b",
+        "android_client_info": {
+          "package_name": "powerrender.androidnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957979582525-3n4h55egnh1a2es126qv5mn12iv5e069.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq2f0srDJULH2D0yKPKMI8kQrJCiH_MRE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
