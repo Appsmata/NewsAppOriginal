@@ -1,0 +1,30 @@
+#page_num a, #page_num p{
+    display: block;
+    padding: 3px 6px;
+    background: #893;
+    display: inline;
+    color: #ffffff;
+    text-decoration: none;
+    border: 1px solid #5f5b5b;
+  }
+
+  #page_num a:hover, a:active{
+    background: #412;
+  }
+
+  .separator{
+    clear:both;
+    margin-bottom: 10px;
+  }
+
+  .pagination li {
+    display: inline-block; margin: 0 5px;
+  }
+
+  .pagination li a {
+    display: inline-block; border: 1px solid #787;
+  }
+
+  .pagination li a.active{
+    font-weight: bold; background: #922;
+  }
